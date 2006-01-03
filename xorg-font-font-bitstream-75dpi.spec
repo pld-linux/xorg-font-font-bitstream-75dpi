@@ -1,16 +1,15 @@
 Summary:	bitstream-75dpi font
 Summary(pl):	Font bitstream-75dpi
 Name:		xorg-font-font-bitstream-75dpi
-Version:	0.99.1
+Version:	1.0.0
 Release:	0.1
 License:	MIT
 Group:		Fonts
-Source0:	http://xorg.freedesktop.org/releases/X11R7.0-RC3/font/font-bitstream-75dpi-%{version}.tar.bz2
-# Source0-md5:	18196a20475eb9cbc9016883e1e689b5
+Source0:	http://xorg.freedesktop.org/releases/X11R7.0/src/font/font-bitstream-75dpi-%{version}.tar.bz2
+# Source0-md5:	beb476657d50d07d17eef7c325a5ed08
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
-BuildRequires:	pkgconfig >= 1:0.19
 BuildRequires:	xorg-app-bdftopcf
 BuildRequires:	xorg-app-mkfontdir
 BuildRequires:	xorg-app-mkfontscale
