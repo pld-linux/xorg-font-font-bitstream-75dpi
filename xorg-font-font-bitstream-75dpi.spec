@@ -1,5 +1,5 @@
 Summary:	bitstream-75dpi font
-Summary(pl.UTF-8):   Font bitstream-75dpi
+Summary(pl.UTF-8):	Font bitstream-75dpi
 Name:		xorg-font-font-bitstream-75dpi
 Version:	1.0.0
 Release:	0.1
