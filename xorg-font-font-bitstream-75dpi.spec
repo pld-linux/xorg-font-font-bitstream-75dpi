@@ -1,5 +1,5 @@
 Summary:	bitstream-75dpi font
-Summary(pl):	Font bitstream-75dpi
+Summary(pl.UTF-8):   Font bitstream-75dpi
 Name:		xorg-font-font-bitstream-75dpi
 Version:	1.0.0
 Release:	0.1
@@ -21,7 +21,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 bitstream-75dpi font.
 
-%description -l pl
+%description -l pl.UTF-8
 Font bitstream-75dpi.
 
 %prep
