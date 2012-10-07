@@ -2,7 +2,7 @@ Summary:	Bitstream 75dpi bitmap fonts
 Summary(pl.UTF-8):	Fonty bitmapowe 75dpi Bitstream
 Name:		xorg-font-font-bitstream-75dpi
 Version:	1.0.3
-Release:	1
+Release:	2
 License:	MIT
 Group:		Fonts
 Source0:	http://xorg.freedesktop.org/releases/individual/font/font-bitstream-75dpi-%{version}.tar.bz2
